@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4b0011/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鮑氏集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 07:42:16.508810'
+  source:
+    repository: kanripo
+    path: KR4b0011/KR4b0011_009.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:da65b0adbe25bba4ef87e75c5622b562931a34380b66be7c1fd1479f700e25ad

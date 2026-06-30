@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4b0011/krp/v1/juan/0
+seq: 0
+front:
+  text: 鮑照集序
+  hash: sha256:d2135e6f5610024ed6de1a0b8d584699b11b194836671ba3a9563140fc17fdb3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4b0011_SBCK_000-1a}
+body:
+  text: 散騎侍郎虞炎奉敕撰鮑照字明逺本上黨人家世貧賤少有文思宋臨川王愛其才以爲國侍郎王薨始興王濬又引爲侍郎孝武初除海虞令遷太學博士兼中書舍人一本云時主多忌以文自高照侍左右深逹夙㫖作此賦述不復盡其才思出爲秣陵令又轉永嘉令火明五年除前軍行參軍侍臨海王鎮荆州掌知内命㝷遷前軍刑獄參軍事宋明帝初江外拒命及義嘉敗荆土震擾江陵人宋景因亂掠城爲景所殺時年五十餘身旣遇難篇章無遺流遷人間者徃徃見在儲皇博採群言遊好文藝片辭隻韻罔不收集照所賦述雖乏精典而有超麗爰命陪趨備加研訪年代稍逺零落者多今所存者儻能半焉鮑氏集序
+  hash: sha256:987b4828cec1a9a7030b56d21039e661749034c32ff96b83b2808bd3fad8e530
+metadata:
+  title: 鮑氏集
+  edition:
+    short: krp
+  date: '2015-09-11 07:42:16.508810'
+  source:
+    repository: kanripo
+    path: KR4b0011/KR4b0011_000.txt
+  image_base_urls:
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:54ee016da25b40f07c986710b1c51a2fb0997d0d332f3cefe58d00710d997c19

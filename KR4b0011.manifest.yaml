@@ -1,0 +1,130 @@
+canonical_identifier: bkk:krp/KR4b0011/v1
+canonical_location: https://kanripo.org/bkk/KR4b0011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鮑氏集
+  identifiers:
+    krp: KR4b0011
+  tags:
+    kr-categories: KR4b
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat04580
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0011.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+- short: SBCK
+assets:
+  parts:
+  - {seq: 3, filename: KR4b0011_003.yaml, hash: 'sha256:ac675f7cfbc46322353817aed2991d3425402c1c8003d31866dd6ab565e43fa3'}
+  - {seq: 4, filename: KR4b0011_004.yaml, hash: 'sha256:94e1c161346d4bc10998a54d08b2d3ba644fd5fa983fc22739d85f2804362545'}
+  - {seq: 5, filename: KR4b0011_005.yaml, hash: 'sha256:6423873a1b24e5b932e59b353724d6b944785e632b760be2e2715678c7cf45dd'}
+  - {seq: 6, filename: KR4b0011_006.yaml, hash: 'sha256:7252fe69441a4c1360a6cb378c30faf5ae298c2d3db4683595750b0ef3941e78'}
+  - {seq: 7, filename: KR4b0011_007.yaml, hash: 'sha256:172249967b8a6fc08e18bf6f53d60d346c6be4056863d4760fe8e220883853e8'}
+  - {seq: 8, filename: KR4b0011_008.yaml, hash: 'sha256:305fa5cfe05d480f2af29c7a434340cb62afec311781a43e516682c2249114a7'}
+  - {seq: 9, filename: KR4b0011_009.yaml, hash: 'sha256:3401834db1a14cc4a3d4ae1360496bc889f4e65f2574da65546df5d8ec4be05b'}
+  - {seq: 10, filename: KR4b0011_010.yaml, hash: 'sha256:ede29e08020f545b4db62f7767fc41f822e0850055fb5af4fafc6a99579e25e6'}
+  markers:
+  - {seq: 3, role: markers, filename: assets/KR4b0011_003.markers.yaml, hash: 'sha256:afc66028921cbcfd5235a791fd5d4e539bf74c856e074cdeee6748d69e9e3489'}
+  - {seq: 4, role: markers, filename: assets/KR4b0011_004.markers.yaml, hash: 'sha256:e2aa7866a63bc698bf4eec3ff0af231aff3212fe533870d01bad4d154dc5ad5a'}
+  - {seq: 5, role: markers, filename: assets/KR4b0011_005.markers.yaml, hash: 'sha256:29c8839f62112f8f1a83c1ddbfe4dd2d81109c6d73b5f66e1bf1730f0f002e7b'}
+  - {seq: 6, role: markers, filename: assets/KR4b0011_006.markers.yaml, hash: 'sha256:4cb174193e10b3ab5c6c6d61611e0a39f27dcd8e93c42bc7e077617a86176a68'}
+  - {seq: 7, role: markers, filename: assets/KR4b0011_007.markers.yaml, hash: 'sha256:722cfc8fe7fc0cd4b87253c830c1930799b16a4cc26706cb583b1cb528dfed05'}
+  - {seq: 8, role: markers, filename: assets/KR4b0011_008.markers.yaml, hash: 'sha256:a5dcab99ff0b05ee7b65bec13d225aebee1b0a433abfca469cfa935e59f6e333'}
+  - {seq: 9, role: markers, filename: assets/KR4b0011_009.markers.yaml, hash: 'sha256:de78207685f2a07b54973b11eb4dba8b01911c0d10afe4236996b460c6e78f83'}
+  - {seq: 10, role: markers, filename: assets/KR4b0011_010.markers.yaml, hash: 'sha256:fcf775d243d22e332bceb325ac1e07147f74893cf2d46d49e2337c4990e561fe'}
+table_of_contents:
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 2822
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1672
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 2489
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1971
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1845
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3867
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3030
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 2587
+  label: ''
+  type: section
+  level: 1
+hash: sha256:25f54f002d4adb50b6d24d8f8d13212bf90b93e263db5cd90850e1c7fd459437
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
